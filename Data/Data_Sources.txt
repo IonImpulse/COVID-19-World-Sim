@@ -1,0 +1,11 @@
+Raw city data from https://www.kaggle.com/max-mind/world-cities-database
+Use method Simulator.filter_raw_datafile(path) on main csv file to generate
+clean data file, without useless data and cities that lack a population field.
+
+JSON lookup files from http://country.io/data/
+
+GDP data from https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+
+Current model data from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+
+Age/Key JSON file generated using https://github.com/IonImpulse/History-Project-COVID19
